@@ -89,7 +89,8 @@ body {
     margin-right: 10px;
 }
 
-.humidity, .wind {
-        font-size: 28px;
-        margin-top: -6px;
+.humidity,
+.wind {
+    font-size: 28px;
+    margin-top: -6px;
 }
